@@ -1,0 +1,92 @@
+.App {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    margin:0;
+  }
+.loginContainer{
+    text-align: center;
+    padding:20px;
+    display:table;
+    margin:0 auto;
+    width:90%;
+}
+.foto{
+    width:100%;
+}
+.stars{
+    width:100%;
+}
+.submit{
+    cursor: pointer;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    width: 100%;
+    opacity: 0;
+    appearance: none;
+    z-index: 999;
+}
+.smallWidth{
+    width:20%;
+}
+.miniWidth{
+    width:10%;
+}
+.normalWidth{
+    width:25%;
+}
+.content {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+
+.moduleContainer{
+    text-align: center;
+    padding:20px;
+    display:table;
+    margin:0 auto;
+    width:99%;
+}
+.paperCanchas{
+    display: table;
+    margin:0 auto;
+    text-align: center;
+    padding:20px;
+}
+.submitBtn{
+    margin:0 auto;
+    text-align: center;
+    padding:20px;
+}
+.paperContainer{
+    text-align: center;
+    padding:20px;
+    display:table;
+    margin:0 auto;
+    width:95%;
+}
+.select{
+    text-align: left;
+}
+.paddingText{
+    padding:5px;
+}
+.btnModule{
+    padding:20px;
+}
+.citysContainer{
+    display:table;
+    margin:0 auto;
+    width:100%;
+    text-align: center;
+}
+.paginationContainer{
+    display: table;
+    margin: 0 auto;
+    text-align: center;
+}
